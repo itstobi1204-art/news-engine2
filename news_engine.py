@@ -471,8 +471,6 @@ RSS_FEEDS = {
     "https://investinglive.com/rss": "investingLive",
     "https://www.cnbc.com/id/100003114/device/rss/rss.html": "CNBC (Top News)",
     "https://www.cnbc.com/id/20910258/device/rss/rss.html": "CNBC (Markets)",
-    "https://feeds.marketwatch.com/marketwatch/topstories/": "MarketWatch (Top Stories)",
-    "https://feeds.marketwatch.com/marketwatch/realtimeheadlines/": "MarketWatch (Real-Time)",
 }
 
 
