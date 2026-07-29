@@ -85,4 +85,4 @@ jobs:
             git add state.json
             git commit -m "auto: update news state history [skip ci]" || echo "Nothing to commit"
             git push || echo "::warning::Push failed - state changes from this run may be lost"
-          fi
+          f
